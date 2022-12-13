@@ -86,4 +86,8 @@
 
 ![Снимок экрана от 2022-12-09 20-41-21](https://user-images.githubusercontent.com/75438030/206760872-5aa84845-52d8-4099-b53f-ff3443724ba9.png)
 
+## Исправил
+
+![Снимок экрана от 2022-12-13 21-31-42](https://user-images.githubusercontent.com/75438030/207416095-f1a8e9da-35d9-4645-a415-ee51f8734dcc.png)
+
 ---
